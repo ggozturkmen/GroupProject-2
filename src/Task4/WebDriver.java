@@ -115,7 +115,7 @@ class Safari implements RemoteWebDriver {
             drive.getTittle();
             drive.naviget();
             drive.getscreenShot();
-
+            //This code was so difficult
         }
     }
 }
